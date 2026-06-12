@@ -8,8 +8,8 @@ I build projects that connect data, machine learning, and real-world decision-ma
 
 ## About me
 
-* Graduate student in Business Administration at National Central University
-* Project lead at NTU AI Application Club
+* Graduate student in International Business at National Taiwan University
+* Project lead at NTU AI Club (NTUAI)
 * Experience with statistics, machine learning, financial data analysis, and LLM/RAG systems
 * Interested in AI agents, database systems, quantitative research, and applied ML
 
@@ -27,7 +27,7 @@ I build projects that connect data, machine learning, and real-world decision-ma
 
 ## Tech stack
 
-**Languages:** Python, SQL, MATLAB, C++, Markdown
+**Languages:** Python, SQL, MATLAB, C++
 **Data / ML:** Pandas, NumPy, scikit-learn, PyTorch, LightGBM, XGBoost
 **AI / RAG:** LLMs, RAG, vector search, prompt testing, document retrieval
 **Databases:** PostgreSQL, pgvector, Neo4j, SQLite
