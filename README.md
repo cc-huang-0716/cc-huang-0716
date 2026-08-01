@@ -40,7 +40,6 @@ I build projects that connect data, machine learning, and real-world decision-ma
 * AI agents and tool-using LLM systems
 * Graph databases and vector databases
 * Quantitative finance and financial machine learning
-* Production planning and optimisation
 
 ---
 
